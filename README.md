@@ -4,4 +4,4 @@ CNN 인공신경망을 이용하여 만든 마스크 착용 인식 웹사이트 
 
 https://parkseoeun0.github.io/PutYourMaskOn/
 
-구글 Teachable Machine의 Tensorflow.js 사용
+구글 Teachable Machine의 Tensorflow.js 사용함.
